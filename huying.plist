@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   FuPin.plist
+   AreaPlistFile
+
+   Created by ZMMacBook on 2018/11/28.
+   Copyright (c) 2018年 ZMMacBook. All rights reserved.
+ 
+   移动办公系统
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://125.90.168.117:9528/mobile/office/client/doDownloadClient4New/huyingIOS</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.gzzm.huying</string>
+                    <key>bundle-version</key>
+                    <string>1.0.0</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>呼应平台</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
